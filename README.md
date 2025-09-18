@@ -75,15 +75,27 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jirawin25460&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirawin25460&layout=compact&hide_border=true" />
-</div>
-
----
+## 📈 GitHub Stats 🐾
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jirawin25460&style=flat-square" alt="profile views"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="cute cat"/>
 </p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jirawin25460&show_icons=true&hide_border=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirawin25460&layout=compact&hide_border=true&theme=radical" />
+</p>
+
+<p align="center">
+  🐱 Total profile views: <img src="https://komarev.com/ghpvc/?username=jirawin25460&style=flat-square" alt="profile views"/> 🐾
+</p>
+
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    🌸 Thanks for visiting my GitHub! Stay pawsome! 🐾💻
+  </marquee>
+</p>
+
