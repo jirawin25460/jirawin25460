@@ -1,33 +1,37 @@
-# Hi there! 👋 🐾
+# Hello World! 👋 🐾🐱
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="cute cat" width="250"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="cute cat coding" width="250"/>
 </p>
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="10">
-    🌸 Welcome to my Kawaii Backend Portfolio! 🐱💻 🌸
+    🐾 Welcome to my Kawaii Backend Portfolio & Resume! 🐱💻 🌟
   </marquee>
 </p>
 
-<h2 align="center">I’m Jirawin, Backend Developer 🐱💻</h2>
+<h2 align="center">I’m Jirawin Jongkham, Backend Developer 🐱💻🎀</h2>
 
 <p align="center">
-  <strong>Building reliable, scalable, and cute backend systems!</strong><br/>
-  <em>“Writing code to make the world happy”</em>
+  <strong>IT Student & Passionate Backend Developer</strong><br/>
+  <em>“Writing code to make the world happier, one cat gif at a time!” 🐾</em>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🐾 Currently learning **Spring Boot, Go, and Kubernetes**  
-- 🛠 Daily driver stack: **Java · Spring Boot · Node.js · PostgreSQL**  
-- 🎯 2025 Goal: **Build a production-ready OSS testing framework**  
-- 🌸 Fun fact: I love cats 🐱 and matcha latte 🍵  
+## 🚀 About Me 🐾
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="cute cat coding" width="150"/>
+</p>
+
+- 🎓 IT student passionate about **Backend development with Java & Spring Boot**  
+- 🛠 Experienced in **building reliable & scalable web applications**, designing APIs, and managing databases  
+- 🌱 Currently learning **Go, Kubernetes, and modern Backend technologies**  
+- 🐱 Cat lover, juice & matcha enthusiast 🍹 Creator of **cute & practical coding projects**  
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧰 Tech Stack & Tools 🐾
 
 <div align="center">
 
@@ -42,58 +46,58 @@
 
 ---
 
-## 📌 Featured Projects 🐾
+## 📌 Featured Projects 🐱💻
 
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
-| **TestCase Manager** | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | ระบบจัดการ Test Case พร้อม Dashboard | [Repo](https://github.com/jirawin/testcase-manager) |
-| **AgriClimate Policy Support** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) | ระบบสนับสนุนนโยบายการปรับตัวสภาพภูมิอากาศ | [Repo](https://github.com/jirawin/agriclimate) |
-| **Food Ordering Website** | ![Motiff AI](https://img.shields.io/badge/Motiff_AI-FF69B4) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) | เว็บไซต์สั่งอาหาร AI-generated Menu | [Repo](https://github.com/jirawin/food-ordering) · [Live](https://foodai-demo.vercel.app) |
+| <p align="center"><img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100"/></p> **Phoungsuwan Garage Website** | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | User-friendly car rental system with booking, search, and management features. | [GitHub](https://github.com/jirawin/testcase-manager) |
+| <p align="center"><img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/></p> **Software Testing Learning Website** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) | Interactive platform for learning software testing with automated examples. | [GitHub](https://github.com/jirawin/agriclimate) |
 
 ---
 
-## 📝 Experience & Education
+## 📝 Experience & Education 🐾
 
-| Period | Role / Degree | Organization / School |
-|--------|---------------|---------------------|
-| 2025 | Backend Developer | Software Testing Learning Website, Maejo University |
-| 2024 | Backend Developer | Car Rental Website, Maejo University |
-| 2023–Present | Backend Developer | Freelance & Personal Projects |
-| 2021–2023 | IT Student | Kasetsart University, Thailand |
-| 2020–2021 | Intern | Software Testing Internship |
+| Period | Role / Degree | Organization / School | Highlights |
+|--------|---------------|---------------------|-----------|
+| 2022–Present | IT Student | Maejo University | GPA: 3.29/4.00; Dean’s List recipient for 3 consecutive years. |
+| 2024 | Member of the Student Union | Maejo University | Organized academic talks, cultural events, and volunteer projects. |
+| 2024 | Backend Developer – Car Rental Website | University Project | Built Spring MVC web app for searching & booking rental cars; managed database efficiently. |
+| 2025 | Backend Developer – Software Testing Learning Website | Personal Project | Developed full-stack platform using Java, Spring Boot, JSP, MySQL, HTML/CSS/JS; automated testing with Robot Framework. |
 
 ---
 
-## 💌 Contact Me
+## 🏆 Awards & Recognition 🐱
+- **Outstanding Academic Achievement** – IT Department, Maejo University (2022–2025)  
+- Dean’s List for consistent excellent performance  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="cat waving" width="150"/>
-</p>
+---
 
+## 💌 Contact 🐾
 - 📧 Email: **jirawin.jk@gmail.com**  
-- 📞 Phone: 081-037-7539  
-- 🌐 LinkedIn: [https://linkedin.com/in/jirawin](https://linkedin.com/in/jirawin)  
+- 📞 Phone: **081-037-7539**  
+- 🏠 Address: Wimon House, Maejo, 339 Moo 4, Ban Maejo 9 Alley, Nong Han, San Sai, Chiang Mai 50210, Thailand  
+- 🌐 LinkedIn: [linkedin.com/in/jirawin](https://linkedin.com/in/jirawin)  
 - 🐦 Twitter/X: [@jirawin](https://twitter.com/jirawin)  
-- 📝 Schedule a coffee chat: [Calendly](https://calendly.com/jirawin/coffee)  
+- 📝 Coffee chat: [Calendly](https://calendly.com/jirawin/coffee)  
 
 ---
 
-## 📊 GitHub Stats 🐾
+## 📝 References 🐱
+- **Dr. Chirawan Ronran** – Lecturer, Major of Information Technology, Faculty of Science, Maejo University  
+  - 📞 Phone: 086-659-6942  
+  - 📧 Email: chirawan@mju.ac.th  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jirawin25460&show_icons=true&hide_border=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jirawin25460&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
-</p>
+## 💖 Soft Skills 🐾
+- Teamwork & Collaboration  
+- Analytical Thinking & Problem Solving  
+- Adaptability & Quick Learner  
 
-<p align="center">
-  🐱 Total profile views: <img src="https://komarev.com/ghpvc/?username=jirawin25460&style=flat-square" alt="profile views"/> 🐾
-</p>
+---
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
-    🌸 Thanks for visiting my GitHub! Stay pawsome! 🐾💻
+    🐾 Thanks for visiting my GitHub! Stay pawsome! 🐱💻
   </marquee>
 </p>
