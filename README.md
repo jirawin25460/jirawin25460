@@ -21,7 +21,7 @@
 
 ## 🚀 About Me 🐾
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="cute cat coding" width="150"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="cute cat coding" width="100"/>
 </p>
 
 - 🎓 IT student passionate about **Backend development with Java & Spring Boot**  
@@ -50,8 +50,8 @@
 
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
-| <p align="center"><img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100"/></p> **Phoungsuwan Garage Website** | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | User-friendly car rental system with booking, search, and management features. | [GitHub](https://github.com/jirawin/testcase-manager) |
-| <p align="center"><img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/></p> **Software Testing Learning Website** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) | Interactive platform for learning software testing with automated examples. | [GitHub](https://github.com/jirawin/agriclimate) |
+|  **Phoungsuwan Garage Website** | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | User-friendly car rental system with booking, search, and management features. | [GitHub](https://github.com/jirawin/testcase-manager) |
+|  **Software Testing Learning Website** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) | Interactive platform for learning software testing with automated examples. | [GitHub](https://github.com/jirawin/agriclimate) |
 
 ---
 
@@ -80,21 +80,10 @@
 - 🐦 Twitter/X: [@jirawin](https://twitter.com/jirawin)  
 - 📝 Coffee chat: [Calendly](https://calendly.com/jirawin/coffee)  
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" style="display:block;margin:auto;" alt="cute cat"/>
+</p>
 
-## 📝 References 🐱
-- **Dr. Chirawan Ronran** – Lecturer, Major of Information Technology, Faculty of Science, Maejo University  
-  - 📞 Phone: 086-659-6942  
-  - 📧 Email: chirawan@mju.ac.th  
-
----
-
-## 💖 Soft Skills 🐾
-- Teamwork & Collaboration  
-- Analytical Thinking & Problem Solving  
-- Adaptability & Quick Learner  
-
----
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
