@@ -27,7 +27,7 @@
 - 🎓 IT student passionate about **Backend development with Java & Spring Boot**  
 - 🛠 Experienced in **building reliable & scalable web applications**, designing APIs, and managing databases  
 - 🌱 Currently learning **Go, Kubernetes, and modern Backend technologies**  
-- 🐱 Cat lover, juice & matcha enthusiast 🍹 Creator of **cute & practical coding projects**  
+- 🐱 Cat lover, juice & matcha enthusiast 🍹, Creator of **cute & practical coding projects**  
 
 ---
 
