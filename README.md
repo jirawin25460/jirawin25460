@@ -1,10 +1,11 @@
 # 🐾 Welcome to My Purr-folio & Resume! 🐱💻 🌸
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1K07b4zb-pFI-N-Qy7937wZjZkwH3OTx6"
-       alt="Jirawin New Profile Picture"
-       width="250"
-       style="border-radius:50%; border:6px solid #FFB6C1; box-shadow:0 6px 12px rgba(0,0,0,0.2);"/>
+<img src="https://github.com/jirawin25460/jirawin25460/raw/main/profile.png"
+     alt="Jirawin New Profile Picture"
+     width="250"
+     style="border-radius:50%; border:6px solid #FFB6C1; box-shadow:0 6px 12px rgba(0,0,0,0.2);"/>
+
 </p>
 
 
@@ -45,10 +46,9 @@
 
 | Domain | Primary 🐱 | Comfortable 😺 | Exploring 🐾 |
 |--------|------------|----------------|--------------|
-| Backend | ![Java](https://img.shields.io/badge/Java-FF69B4?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-FFB6C1?logo=springboot&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-FFD700?logo=node.js&logoColor=black) | ![Go](https://img.shields.io/badge/Go-ADD8E6?logo=go&logoColor=black) |
-| Database | ![Oracle](https://img.shields.io/badge/Oracle-FF6347?logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-87CEFA?logo=mysql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-98FB98?logo=mongodb&logoColor=black) | ![SQLite](https://img.shields.io/badge/SQLite-DDA0DD?logo=sqlite&logoColor=white) |
-| DevOps | ![Docker](https://img.shields.io/badge/Docker-1E90FF?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-9370DB?logo=githubactions&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-FF69B4?logo=kubernetes&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-DA70D6?logo=terraform&logoColor=white) |
-| Tools | ![Git](https://img.shields.io/badge/Git-FF4500?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-6495ED?logo=visual-studio-code&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF8C69?logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-BA55D3?logo=insomnia&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-FF6347?logo=redis&logoColor=white) |
+| Backend | ![Java](https://img.shields.io/badge/Java-FF69B4?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-FFB6C1?logo=springboot&logoColor=white) | ![Go](https://img.shields.io/badge/Go-ADD8E6?logo=go&logoColor=black) |  |
+| Database |  ![MySQL](https://img.shields.io/badge/MySQL-87CEFA?logo=mysql&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-FF6347?logo=oracle&logoColor=white)  |  |
+| Tools | ![Git](https://img.shields.io/badge/Git-FF4500?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-6495ED?logo=visual-studio-code&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF8C69?logo=postman&logoColor=white)  |  |
 
 </div>
 
