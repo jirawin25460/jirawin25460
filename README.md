@@ -46,9 +46,9 @@
 
 | Domain | Primary 🐱 | Comfortable 😺 | Exploring 🐾 |
 |--------|------------|----------------|--------------|
-| Backend | ![Java](https://img.shields.io/badge/Java-FF69B4?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-FFB6C1?logo=springboot&logoColor=white) | ![Go](https://img.shields.io/badge/Go-ADD8E6?logo=go&logoColor=black) |  |
-| Database |  ![MySQL](https://img.shields.io/badge/MySQL-87CEFA?logo=mysql&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-FF6347?logo=oracle&logoColor=white)  |  |
-| Tools | ![Git](https://img.shields.io/badge/Git-FF4500?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-6495ED?logo=visual-studio-code&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF8C69?logo=postman&logoColor=white)  |  |
+| Backend | ![Java](https://img.shields.io/badge/Java-FF69B4?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-FFB6C1?logo=springboot&logoColor=white) | ![Go](https://img.shields.io/badge/Go-ADD8E6?logo=go&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-FFD700?logo=node.js&logoColor=black) |
+| Database |  ![MySQL](https://img.shields.io/badge/MySQL-87CEFA?logo=mysql&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-FF6347?logo=oracle&logoColor=white)  | - |
+| Tools |![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-6495ED?logo=visual-studio-code&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF8C69?logo=postman&logoColor=white) |  ![Git](https://img.shields.io/badge/Git-FF4500?logo=git&logoColor=white)  |
 
 </div>
 
