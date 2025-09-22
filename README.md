@@ -1,4 +1,4 @@
-# 🐾 Welcome to My Purr-folio & Resume! 🐱💻 🌸
+# 🐾 Welcome to My Purr-folio & Resume! 🐱💻 
 
 <p align="center">
 <img src="https://github.com/jirawin25460/jirawin25460/raw/main/profile.png"
