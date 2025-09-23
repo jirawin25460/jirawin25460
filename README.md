@@ -59,7 +59,7 @@
 | Project | Tech 🐱 | Highlights ✨ | Links 🐾 |
 |---------|---------|--------------|----------|
 | 😺 **Phoungsuwan Garage Website** | Java, Spring MVC, MySQL | Car rental system with booking, search, and management | [🐾 GitHub](https://github.com/jirawin25460/PhoungsuwanGarage) |
-| 🐾 **Software Testing Learning Website** | Java, Spring Boot, MySQL, HTML, CSS, JavaScript | Interactive platform for learning software testing | [😻 GitHub](https://github.com/jirawin/agriclimate) |
+| 🐾 **Software Testing Learning Website** | Java, Spring Boot, MySQL, HTML, CSS, JavaScript | Interactive platform for learning software testing | [😻 GitHub](https://github.com/jirawin25460/SoftwareTestingLearning) |
 
 ---
 
