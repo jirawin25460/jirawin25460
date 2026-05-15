@@ -34,7 +34,7 @@
 
 ## 📄 Resume 🐱✨
 
-[![View My Resume](https://img.shields.io/badge/🐾%20View%20My%20Resume-FFB6C1?style=for-the-badge&logo=googledrive&logoColor=white](https://drive.google.com/file/d/1Rms4P4NnKRBf840Ck9YGN2XlcU0V51H9/view?usp=sharing)
+[![View My Resume](https://img.shields.io/badge/-%F0%9F%90%BE%20View%20My%20Resume-FFB6C1?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Rms4P4NnKRBf840Ck9YGN2XlcU0V51H9/view?usp=sharing)
 
 > 😻 *“A good backend doesn’t just handle requests — it makes the world purr happily.”*  
 
